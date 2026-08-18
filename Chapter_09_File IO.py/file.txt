@@ -1,2 +1,4 @@
-This is my first file in python.
-Nomi is very good at leannig the programming.
+i am noman
+a pyhton coder
+may be a great coder 
+in near future
