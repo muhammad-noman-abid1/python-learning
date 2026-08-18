@@ -1,0 +1,2 @@
+This is my first file in python.
+Nomi is very good at leannig the programming.
